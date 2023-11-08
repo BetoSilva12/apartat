@@ -1,0 +1,6 @@
+ mkdir 1
+ mkdir 2 3
+
+ nano procesos.txt
+
+  ps aux > /Bsilva/procesos.txt
