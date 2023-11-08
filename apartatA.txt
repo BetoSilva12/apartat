@@ -6,3 +6,5 @@
   ps aux > /Bsilva/procesos.txt
 
   cd 2
+
+  cat procesos.txt | grep "root"
