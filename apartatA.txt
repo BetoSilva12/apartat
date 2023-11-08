@@ -4,3 +4,5 @@
  nano procesos.txt
 
   ps aux > /Bsilva/procesos.txt
+
+  cd 2
