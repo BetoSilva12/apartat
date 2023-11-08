@@ -10,3 +10,5 @@
   cat procesos.txt | grep "root"
 
   awk 'NR<=9 {print $2, $9}' procesos.txt
+
+  grep -n root procesos.txt
